@@ -1,0 +1,41 @@
+Tue Jun 06 2023 0: 0: 12 [right meow!] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 06 2023 0: 1: 15 [right meow!] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 06 2023 0: 3: 22 [right meow!] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 06 2023 0: 3: 35 [right meow!] error: globalErrorHandler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "Start month is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endtMonth"
+    ],
+    "message": "End month is required"
+  }
+]
+Tue Jun 06 2023 0: 4: 34 [right meow!] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 06 2023 0: 5: 44 [right meow!] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 06 2023 0: 6: 0 [right meow!] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 06 2023 0: 6: 14 [right meow!] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 06 2023 0: 7: 30 [right meow!] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 06 2023 0: 9: 46 [right meow!] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 06 2023 0: 27: 2 [right meow!] error: listen EADDRINUSE: address already in use :::5000
+Tue Jun 06 2023 0: 28: 17 [right meow!] error: listen EADDRINUSE: address already in use :::5000
