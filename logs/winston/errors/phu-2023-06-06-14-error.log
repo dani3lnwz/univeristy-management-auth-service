@@ -1,0 +1,10 @@
+Tue Jun 06 2023 14: 10: 32 [right meow!] error: globalErrorHandler ~ AcademicSemester is not defined
+Tue Jun 06 2023 14: 14: 21 [right meow!] error: globalErrorHandler ~ Academic semester is already exist !
+Tue Jun 06 2023 14: 27: 20 [right meow!] error: globalErrorHandler ~ getaddrinfo ENOTFOUND cluster0-shard-00-00.pqhae.mongodb.net
+Tue Jun 06 2023 14: 27: 42 [right meow!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.pqhae.mongodb.net
+Tue Jun 06 2023 14: 28: 22 [right meow!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.pqhae.mongodb.net
+Tue Jun 06 2023 14: 29: 1 [right meow!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.pqhae.mongodb.net
+Tue Jun 06 2023 14: 29: 7 [right meow!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.pqhae.mongodb.net
+Tue Jun 06 2023 14: 29: 17 [right meow!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.pqhae.mongodb.net
+Tue Jun 06 2023 14: 29: 28 [right meow!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.pqhae.mongodb.net
+Tue Jun 06 2023 14: 29: 36 [right meow!] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.pqhae.mongodb.net
