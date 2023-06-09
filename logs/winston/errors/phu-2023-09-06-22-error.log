@@ -1,0 +1,15 @@
+Fri Jun 09 2023 22: 16: 44 [right meow!] error: globalErrorHandler ~ [
+  {
+    "code": "custom",
+    "message": "Either both title and code should be provided or neither",
+    "path": []
+  }
+]
+Fri Jun 09 2023 22: 17: 57 [right meow!] error: globalErrorHandler ~ Invalid Semester Code
+Fri Jun 09 2023 22: 22: 7 [right meow!] error: globalErrorHandler ~ [
+  {
+    "code": "custom",
+    "message": "Either both title and code should be provided or neither",
+    "path": []
+  }
+]

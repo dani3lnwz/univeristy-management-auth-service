@@ -1,7 +1,7 @@
 import {
   IAcademicSemesterCodes,
-  IAcademicSemesterTitles,
   IAcademicSemesterMonths,
+  IAcademicSemesterTitles,
 } from './academicSemester.interface';
 
 export const academicSemesterTitles: IAcademicSemesterTitles[] = [
@@ -38,3 +38,12 @@ export const academicSemesterTitleCodeMapper: {
   Summer: '02',
   Fall: '03',
 };
+
+export const academicSemesterSearchableFields = ['title', 'code', 'year'];
+
+export const academicSemesterFilterableFields = [
+  'searchTerm',
+  'title',
+  'code',
+  'year',
+];
