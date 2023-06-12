@@ -8,7 +8,7 @@ import {
   IAcademicSemester,
   IAcademicSemesterFilters,
 } from './academicSemester.interface';
-import { AcademicSemester } from './academicSemesterModel';
+import { AcademicSemester } from './academicDepartment.model';
 import { IPaginationOptions } from '../../../interfaces/pagination';
 import { IGenericResponse } from '../../../interfaces/common';
 import { paginationHelpers } from './../../../helpers/paginationHelper';
