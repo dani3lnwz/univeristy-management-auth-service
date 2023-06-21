@@ -18,7 +18,7 @@ import {
   generateStudentId,
 } from './user.utils';
 
-import bcrypt from 'bcrypt';
+//
 
 const createStudent = async (
   student: IStudent,
@@ -29,10 +29,10 @@ const createStudent = async (
     user.password = config.default_student_pass as string;
   }
 
-  user.password = await bcrypt.hash(
-    user.password,
-    Number(config.bcrypt_salt_rounds)
-  );
+  // user.password = await bcrypt.hash(
+  //   user.password,
+  //   Number(config.bcrypt_salt_rounds)
+  // );
   // set role
   user.role = 'student';
 
@@ -104,6 +104,11 @@ const createFaculty = async (
   if (!user.password) {
     user.password = config.default_faculty_pass as string;
   }
+
+  // user.password = await bcrypt.hash(
+  //   user.password,
+  //   Number(config.bcrypt_salt_rounds)
+  // );
   // set role
   user.role = 'faculty';
 
@@ -164,6 +169,11 @@ const createAdmin = async (
   if (!user.password) {
     user.password = config.default_admin_pass as string;
   }
+
+  // user.password = await bcrypt.hash(
+  //   user.password,
+  //   Number(config.bcrypt_salt_rounds)
+  // );
   // set role
   user.role = 'admin';
 
