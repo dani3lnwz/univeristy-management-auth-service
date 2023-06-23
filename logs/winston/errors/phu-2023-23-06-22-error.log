@@ -1,0 +1,8 @@
+Fri Jun 23 2023 22: 3: 13 [right meow!] error: globalErrorHandler ~ Cast to ObjectId failed for value "240100005" (type string) at path "_id" for model "Student"
+Fri Jun 23 2023 22: 7: 39 [right meow!] error: globalErrorHandler ~ Cast to ObjectId failed for value "240100005" (type string) at path "_id" for model "Student"
+Fri Jun 23 2023 22: 13: 37 [right meow!] error: globalErrorHandler ~ Cast to ObjectId failed for value "{ id: '240100001' }" (type Object) at path "_id" for model "Student"
+Fri Jun 23 2023 22: 15: 18 [right meow!] error: globalErrorHandler ~ Cast to ObjectId failed for value "{ id: '240100001' }" (type Object) at path "_id" for model "Student"
+Fri Jun 23 2023 22: 16: 31 [right meow!] error: globalErrorHandler ~ Cast to ObjectId failed for value "{ id: '240100001' }" (type Object) at path "_id" for model "Student"
+Fri Jun 23 2023 22: 24: 16 [right meow!] error: globalErrorHandler ~ Cast to ObjectId failed for value "{ id: '240100002' }" (type Object) at path "_id" for model "Student"
+Fri Jun 23 2023 22: 26: 18 [right meow!] error: globalErrorHandler ~ Cast to ObjectId failed for value "{ id: '240100002' }" (type Object) at path "_id" for model "Student"
+Fri Jun 23 2023 22: 27: 54 [right meow!] error: Failed to connect database queryTxt ETIMEOUT cluster0.pqhae.mongodb.net

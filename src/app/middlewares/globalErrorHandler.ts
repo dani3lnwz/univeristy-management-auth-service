@@ -9,11 +9,14 @@ import { errorlogger } from '../../shared/logger';
 import { ZodError } from 'zod';
 import handleZodError from '../../errors/handleZodError';
 import handleCastError from '../../errors/handleCastError';
+import { NextFunction } from 'express';
 
 const globalErrorHandler: ErrorRequestHandler = (
   error,
   req: Request,
-  res: Response
+  res: Response,
+  // eslint-disable-next-line no-unused-vars
+  next: NextFunction
 ) => {
   config.env === 'development'
     ? console.log('globalErrorHandler ~', error)

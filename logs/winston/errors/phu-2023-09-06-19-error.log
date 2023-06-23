@@ -1,2 +1,0 @@
-Fri Jun 09 2023 19: 41: 9 [right meow!] error: globalErrorHandler ~ Academic semester is already exist !
-Fri Jun 09 2023 19: 50: 34 [right meow!] error: globalErrorHandler ~ Cast to ObjectId failed for value "6482cae4c3790f4035545f778" (type string) at path "_id" for model "AcademicSemester"
